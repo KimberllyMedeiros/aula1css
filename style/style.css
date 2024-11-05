@@ -1,0 +1,15 @@
+.box {
+  background-color: aqua;  
+  color: antiquewhite;
+  width: 200px;
+  height: 150px;
+}
+.box2 {
+    background-color: #000303;  
+    color: antiquewhite;
+    width: 400px;
+    height: 300px;
+  }
+  #corpo {
+    background-color: #d3cbc2;
+}
